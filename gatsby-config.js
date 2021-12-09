@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `CNFT Trash`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `Taking your unwanted CNFTs and turning them into a CNFT Community Trash Pile! TX fees and donations will go towards cleaning trash from our Oceans!`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
