@@ -7,7 +7,7 @@ import Seo from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />
+    <Seo title="CNFT Trash" />
     <h1>Welcome to CNFT Trash</h1>
     <p>We take your unwanted NFTs and donate the TX fees to cleaning our Oceans!</p>
     <p>We are just getting started. Donate and view the pool. </p>
