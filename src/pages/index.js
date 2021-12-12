@@ -10,9 +10,9 @@ const IndexPage = () => (
     <Seo title="CNFT Trash" />
     <h1>Welcome to CNFT Trash</h1>
     <p>We take your unwanted NFTs and donate the TX fees to cleaning our Oceans!</p>
-    <p>We are just getting started. Donate and view the pool. </p>
+    <p>We are just getting started. Donate Here: addr1qxw84x26sxg34u5x43ysxv7pqf20xc8l5p00rrv9p3c22xzqd3eqkvwnkrhvdvuw6y3mha9g4hh7gtjww38q8t25d5nqty6ulw </p>
   <p>
-      <Link to="https://pool.pm/addr1qxw84x26sxg34u5x43ysxv7pqf20xc8l5p00rrv9p3c22xzqd3eqkvwnkrhvdvuw6y3mha9g4hh7gtjww38q8t25d5nqty6ulw">Trash Pool</Link> <br />
+      View the Pool <Link to="https://pool.pm/addr1qxw84x26sxg34u5x43ysxv7pqf20xc8l5p00rrv9p3c22xzqd3eqkvwnkrhvdvuw6y3mha9g4hh7gtjww38q8t25d5nqty6ulw">Trash Pool</Link> <br />
      
     </p>
     <StaticImage
