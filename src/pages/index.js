@@ -26,7 +26,8 @@ const IndexPage = () => (
       alt="Trash Lord"
       style={{ marginBottom: `1.45rem` }}
     />
-    
+    <p>
+      The more trash in the pool, the less trash in the ocean. </p>
   </Layout>
 )
 
