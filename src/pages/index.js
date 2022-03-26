@@ -18,7 +18,7 @@ const IndexPage = () => (
   or use
   <p></p>
   <p>
-   <strong> Our Donated $handles </strong> | $51percent
+   <strong> Our $handles </strong> | $trashpile | $51percent
 </p>
   <p>
       View the Pool <Link to="https://pool.pm/addr1qxw84x26sxg34u5x43ysxv7pqf20xc8l5p00rrv9p3c22xzqd3eqkvwnkrhvdvuw6y3mha9g4hh7gtjww38q8t25d5nqty6ulw">Trash Pool</Link> <br />
